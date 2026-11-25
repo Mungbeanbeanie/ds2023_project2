@@ -2,11 +2,10 @@
 # UVA colors
 NAVY, GRAY, ORANGE, PEACH, WHITE = "#232D4B", "#C9CBD2", "#E57200", "#F9DCBE", "#FFFFFF"
 
-# Chart roles
+# Chart roles: orange is the chosen value or key finding, gray is everything else
 HIGHLIGHT, MUTED_MARK, TEXT, TEXT_SOFT = ORANGE, GRAY, NAVY, "#4A5677"
-PAGE, GRID, NEUTRAL = "#F6F6F8", "#E4E5EA", "#F1F1F3"
+PAGE, GRID = "#F6F6F8", "#E4E5EA"
 NAVY_RAMP = ["#A3ABC2", "#7782A0", "#4A5677", "#232D4B"]           # ordered groups, low to high
-DIVERGING = [[0, ORANGE], [0.5, NEUTRAL], [1, NAVY]]                # below usual -> above usual
 FONT = "Libre Franklin, Franklin Gothic, Arial, sans-serif"
 
 
