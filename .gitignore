@@ -1,2 +1,3 @@
 .remember/
 .ipynb_checkpoints/
+__pycache__/
