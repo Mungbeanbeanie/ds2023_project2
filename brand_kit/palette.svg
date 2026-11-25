@@ -1,0 +1,5 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="32" font-weight="bold" text-anchor="middle">
+<rect width="300" height="300" fill="#232D4B"/><text x="150" y="160" fill="#fff">#232D4B</text>
+<rect x="300" width="300" height="300" fill="#C9CBD2"/><text x="450" y="160">#C9CBD2</text>
+<rect x="600" width="300" height="300" fill="#E57200"/><text x="750" y="160">#E57200</text>
+<rect x="900" width="300" height="300" fill="#F9DCBE"/><text x="1050" y="160">#F9DCBE</text></svg>
